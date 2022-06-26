@@ -1,0 +1,186 @@
+.container{
+    font-family: 'Comfortaa', cursive;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    background-color:#BAFFB4; 
+}
+
+.name{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+
+}
+.heading{
+    align-content: center;
+    text-align: center;
+    margin-top: 50px;
+
+    
+    font-family: 'Parisienne', cursive;
+    line-height: 1em !important;
+}
+
+.key-skills{
+    margin-left: 50px;
+}
+.langauges{
+    margin-left: 50px;
+}
+.img1{
+    margin-top: 100px;
+    margin-left: 130px;
+    border-radius: 5%;
+    margin-bottom:80px ;
+   
+}
+.img2 , .img3 , .img4 , .img5{
+    margin-left: 100px;
+    border-radius: 15%;
+}
+
+
+
+.nav{
+    margin-top: 50px;
+}
+.education{
+    background-color: aqua;
+}
+.edu{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+table, th, td {
+    border:1px solid black;
+  }
+
+.table{
+    margin-top: 50px;
+    width: 100%;
+    height: 200px;
+}
+
+.internship{
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+    height: 380px;
+    width: 300px;
+    background-color: beige;
+    margin-left:560px ;
+    border-radius: 5%;
+    font-family: 'Comfortaa', cursive;
+}
+
+.intern{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 550px;
+}
+
+.project{
+    background-color:#E5EFC1;
+    font-family: 'Comfortaa', cursive;
+}
+.proj{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.contact{
+    color: #05595B;
+  text-align: center;
+  margin-top: 20px;
+    margin-bottom: 100px;
+    font-family: 'Satisfy', cursive;
+}
+.con{
+   
+    margin-top: 50px;
+}
+.img7{
+    height: 50px;
+    width: 50px;
+}
+.img8{
+    height: 50px;
+    width: 50px;
+}
+.img9{
+    height: 50px;
+    width: 50px;
+}
+.img10{
+    height: 50px;
+    width: 50px;
+}
+.img11{
+    height: 50px;
+    width: 50px;
+}
+.img12{
+    height: 50px;
+    width: 50px;
+}
+@media  (max-width : 500px){
+    .intern{
+        text-align: center;
+       margin-left: 20px;
+    }
+    .internship{
+        text-align: center;
+        margin-left: 10px;
+    }
+    .proj{
+        text-align: center;
+        margin-left: 50px;
+    }
+    .img1{
+        position:relative;
+        width: 300px;
+        margin-bottom: 50px;
+        margin-left: 10px;
+
+    }
+    .img2 , .img3 , .img4 , .img5{
+        position:relative;
+        width: 300px;
+        margin-bottom: 50px;
+        margin-left: 20px;
+
+    }
+   .heading{
+       font-size: 15px;
+       align-content: center;
+       text-align: center;
+       margin-top: 50px;
+   
+       
+       font-family: 'Parisienne', cursive;
+   }
+   .education{
+    background-color: aqua;
+
+
+   }
+   .table{
+    background-color: aqua;
+    margin-top: 50px;
+    width: 100%;
+    height: 200px;
+}
+  .edu{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 10px;
+  }
+  .container{
+    font-family: 'Comfortaa', cursive;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    background-color:#BAFFB4; 
+}
+
+}
